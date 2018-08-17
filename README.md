@@ -1,2 +1,2 @@
-# SecondSemesterProjects
-Course Projects of Second Semester
+# SecondSemesterOOP
+OOP Project of Second Semester
