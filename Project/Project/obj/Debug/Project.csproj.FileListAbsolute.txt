@@ -1,0 +1,9 @@
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\bin\Debug\Project.exe.config
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\bin\Debug\Project.exe
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\bin\Debug\Project.pdb
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\obj\Debug\Project.exe
+C:\Users\FURQAN\Desktop\UIT\Projects\OOP\Project\Project\obj\Debug\Project.pdb
